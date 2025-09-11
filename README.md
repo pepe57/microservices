@@ -20,7 +20,6 @@
 12.  [How to Run the Application](#run-app)
 13.  [How to Deploy the Application](#deploy-app)
 14.  [References](#references)
-15.  [History](#history)
 
 ## <a id="introduction" name="introduction">Introduction</a>
 
